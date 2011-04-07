@@ -7,3 +7,8 @@
    X = 1
    X = 2
    warning (hey man thats not cool, but ok.)
+   
+   
+   What changes self
+   - method call
+   - class or module definition
