@@ -1,0 +1,17 @@
+class MyClass
+  @variable = 99
+  class << self
+    def myvar
+      @variable
+    end
+  end
+end
+
+
+
+class SubClass < MyClass
+end
+
+puts MyClass.myvar
+
+puts "subclasses myvar: #{SubClass.myvar}"

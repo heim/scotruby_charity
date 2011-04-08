@@ -12,3 +12,12 @@
    What changes self
    - method call
    - class or module definition
+   
+  
+  
+  Singleton class
+   - aka metaclass, eigenclass, apnaclass uniclass
+   - regular class but hidden
+   - participates in inheritance
+   
+   There is no such thing as a mix in
