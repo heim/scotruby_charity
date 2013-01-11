@@ -1,3 +1,5 @@
+#People that are ignorant can do amazing things. #chadfowlerquotes #scotruby
+
 module TimeStampable
   def created_at
     @_created_at
